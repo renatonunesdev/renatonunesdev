@@ -36,7 +36,7 @@
 
 </div>
 
-![Snake animation](https://github.com/renatodwork/renatodwork/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
