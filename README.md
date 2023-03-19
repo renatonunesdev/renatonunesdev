@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/renatodwork">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatodwork&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodwork&layout=compact&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&langs_count=7&hide_border=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatodwork&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodwork&layout=compact&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&langs_count=7&hide_border=false"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
