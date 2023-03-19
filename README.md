@@ -22,9 +22,9 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <div align="center">
-  <a href="https://github.com/yurifilgueira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renatodwork&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodwork&layout=compact&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&langs_count=7&hide_border=true"/>
+  <a href="https://github.com/renatodwork">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatodwork&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodwork&layout=compact&title_color=96a2ff&bg_color=231a2f&icon_color=ffffff&text_color=f6a9cd&theme=tokyonight&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
@@ -34,7 +34,6 @@
   <a href ="mailto:renatodwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href ="https://github.com/renatodwork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-  
 </div>
 
 
