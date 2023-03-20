@@ -1,6 +1,7 @@
 <h2 align="center">Hey, I'm Renato Nunes! </h2>
 
-<p align="center">
+<h5 align="center"> I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming. My hobby is studying android development with Kotlin, I really like the language, I hope to evolve and do projects with it in the future. </h5>
+ 
  
 </p align="center">
 <img src="https://lh3.googleusercontent.com/pw/AMWts8DQGay8Hv-msLEZlL_-ncR6drASYLxJO4Z4TDL8immjwWHjxbcccXMNoOLmpAzFAi8nrmPrD9ZZeRwgAee9_pd6xYF_jfz3tATVOtiukQsN0VtyXxcAyWD3PGHWpDBDtPeTx-LMsHyM2bAslOH8tAh1=w1173-h259-no?authuser=0" />
