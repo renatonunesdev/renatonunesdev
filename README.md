@@ -4,7 +4,7 @@
  
  
 </p align="center">
-<img src="https://lh3.googleusercontent.com/pw/AMWts8DQGay8Hv-msLEZlL_-ncR6drASYLxJO4Z4TDL8immjwWHjxbcccXMNoOLmpAzFAi8nrmPrD9ZZeRwgAee9_pd6xYF_jfz3tATVOtiukQsN0VtyXxcAyWD3PGHWpDBDtPeTx-LMsHyM2bAslOH8tAh1=w1173-h259-no?authuser=0" />
+<img src="https://lh3.googleusercontent.com/pw/AMWts8Dy6oocX3pORHV4kBUuSLfKBTqJSliJ8baSxtugsn9BSSAZ7vfWDZMsP8Nio4irOFhbsIMFiRCTZPynpFoKf9Tac9sxnvLZRcUcxSkrx3QMFABXzqutCkp6rW1CGJhm7nuEMixc1wKB4QbVV8hzWW8V=w1173-h259-no?authuser=0" />
  
 <h2 align="center">My stack :man_technologist:</h2>
 
