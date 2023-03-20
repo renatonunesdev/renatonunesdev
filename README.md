@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://camo.githubusercontent.com/7fc92dc7baf484dee67c0012572291b5eee2c81f59b1e96b7ccc3c9e62561a1b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f522d76737064766466304d41414141432f6a756a757473752d6b616973656e302d7361746f72752d676f6a6f2e676966" width="999" height="289" />
+<img src="https://lh3.googleusercontent.com/pw/AMWts8DQGay8Hv-msLEZlL_-ncR6drASYLxJO4Z4TDL8immjwWHjxbcccXMNoOLmpAzFAi8nrmPrD9ZZeRwgAee9_pd6xYF_jfz3tATVOtiukQsN0VtyXxcAyWD3PGHWpDBDtPeTx-LMsHyM2bAslOH8tAh1=w1173-h259-no?authuser=0" />
  
 <h2 align="center">My stack :man_technologist:</h2>
 
