@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Renato Nunes! </h2>
 
-<h5 align="center"> I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming. My hobby is studying android development with Kotlin, I really like the language, I hope to evolve and do projects with it in the future. </h5>
+<h5 align="center"> I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming.  </h5>
  
  
 </p align="center">
@@ -15,12 +15,10 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <br />
   <br />
-  <img alt="Eclipse" style="padding-right:10px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
-  <img alt="VisualStudioCode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="AndroidStudio" style="padding-right:10px;" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> 
+  <img alt="IntelliJ" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+  <img alt="PyCharm" style="padding-right:10px;" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> 
 <br />
   </div>
 
