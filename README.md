@@ -1,5 +1,5 @@
-<h2 align="center">Hey, I'm Renato Nunes! </h2>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dcebff,50:6086f3,100:2a314e&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&&fontColor=f5fdff&fontSize=50&fontAlign=50&fontAlignY=20&height=100&section=header&fontSize=90" />
+<h2 align="center" </h2>
 <h5 align="center"> I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming.  </h5>
  
 </p align="center">
@@ -42,6 +42,6 @@
 </div>
    
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5d85f7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dcebff,50:6086f3,100:2a314e&height=100&section=footer"/>
 </p>
    
