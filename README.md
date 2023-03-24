@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/renatodwork">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatodwork&count_private=true&hide_border=true&show_icons=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatodwork&bg_color=1e2035&text_color=8ba9ef&icon_color=c6dffe&title_color=5d85f7&count_private=true&hide_border=true&show_icons=true"/>
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodwork&bg_color=1e2035&text_color=8ba9ef&icon_color=c6dffe&title_color=5d85f7&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
