@@ -2,7 +2,6 @@
 
 <h5 align="center"> I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming.  </h5>
  
- 
 </p align="center">
 <img src="https://lh3.googleusercontent.com/pw/AMWts8Dy6oocX3pORHV4kBUuSLfKBTqJSliJ8baSxtugsn9BSSAZ7vfWDZMsP8Nio4irOFhbsIMFiRCTZPynpFoKf9Tac9sxnvLZRcUcxSkrx3QMFABXzqutCkp6rW1CGJhm7nuEMixc1wKB4QbVV8hzWW8V=w1173-h259-no?authuser=0" />
  
@@ -17,14 +16,13 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <br />
   <br />
-  
-   <img alt="IntelliJ" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="IntelliJ" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="PyCharm" style="padding-right:10px;" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-   <img alt="VScode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+  <img alt="VScode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img alt="Eclipse" style="padding-right:10px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
-   
-<br />
-  </div>
+  <br />
+  
+</div>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
