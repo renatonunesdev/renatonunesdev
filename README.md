@@ -18,7 +18,8 @@
   <br />
   <img alt="IntelliJ" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="PyCharm" style="padding-right:10px;" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img alt="VScode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+   <br />
+   <img alt="VScode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img alt="Eclipse" style="padding-right:10px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
   <br />
   
