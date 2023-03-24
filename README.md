@@ -40,7 +40,7 @@
   
 </div>
    
-![Snake animation](https://github.com/renatodwork/renatodwork/blob/output/github-contribution-grid-snake.svg)   
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)   
    
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5d85f7&height=100&section=footer"/>
