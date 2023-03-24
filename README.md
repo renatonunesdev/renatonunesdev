@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dcebff,50:6086f3,100:2a314e&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&&fontColor=f5fdff&fontAlign=50&desc=I'm%20brazilian%20Back-end%20developer,%20currently%20my%20goal%20is%20to%20master%20Java%20and%20object-oriented%20programming.&descSize=15&descAlignY=50&fontAlignY=30&height=200&section=header&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dcebff,50:6086f3,100:2a314e&height=100&section=header&fontSize=30" />
 
-<h2 align="center"></h2>
+<h2 align="center">Hey, I'm Renato Nunes</h2>
+<div align="center">I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming. </div>
 
 </p align="center">
 <img src="https://lh3.googleusercontent.com/pw/AMWts8Dy6oocX3pORHV4kBUuSLfKBTqJSliJ8baSxtugsn9BSSAZ7vfWDZMsP8Nio4irOFhbsIMFiRCTZPynpFoKf9Tac9sxnvLZRcUcxSkrx3QMFABXzqutCkp6rW1CGJhm7nuEMixc1wKB4QbVV8hzWW8V=w1173-h259-no?authuser=0" />
