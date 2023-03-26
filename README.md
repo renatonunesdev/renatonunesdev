@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:909ba9,50:6086f3,100:2a314e&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:afbdce,50:6086f3,100:2a314e&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 <h4 align="center" > I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming. </h4>
 
 </p align="center">
@@ -41,6 +41,6 @@
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dcebff,50:6086f3,100:2a314e&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:afbdce,50:6086f3,100:2a314e&reversal=true&height=100&section=footer"/>
 </p>
    
