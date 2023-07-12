@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:afbdce,50:6086f3,100:2a314e&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffc491,50:e07746,100:404086&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 <h4 align="center" > I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming. </h4>
 
-</p align="center">
-<img src="https://lh3.googleusercontent.com/pw/AMWts8Dy6oocX3pORHV4kBUuSLfKBTqJSliJ8baSxtugsn9BSSAZ7vfWDZMsP8Nio4irOFhbsIMFiRCTZPynpFoKf9Tac9sxnvLZRcUcxSkrx3QMFABXzqutCkp6rW1CGJhm7nuEMixc1wKB4QbVV8hzWW8V=w1173-h259-no?authuser=0" />
- 
 <h2 align="center">My stack :man_technologist:</h2>
 
 <div align="center">
@@ -27,20 +24,20 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <div align="center">
-  <a href="https://github.com/renatodwork">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatodwork&bg_color=1e2035&text_color=8ba9ef&icon_color=c6dffe&title_color=5d85f7&count_private=true&hide_border=true&show_icons=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodwork&bg_color=1e2035&text_color=8ba9ef&icon_color=c6dffe&title_color=5d85f7&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
+  <a href="https://github.com/renatonunesdev">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesdev&bg_color=404086&text_color=7777ff&icon_color=c6dffe&title_color=e07746&count_private=true&hide_border=true&show_icons=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesdev&bg_color=404086&text_color=7777ff&icon_color=c6dffe&title_color=e07746&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
 <div> 
 
-  <a href="https://www.linkedin.com/in/renatodwork/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href ="mailto:renatodwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/renatonunesdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href ="mailto:renatonunes.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:afbdce,50:6086f3,100:2a314e&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc491,50:e07746,100:404086&reversal=true&height=100&section=footer"/>
 </p>
    
