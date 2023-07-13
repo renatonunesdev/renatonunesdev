@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesdev">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesdev&bg_color=404086&text_color=7777ff&icon_color=c6dffe&title_color=e07746&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesdev&bg_color=404086&text_color=7777ff&icon_color=c6dffe&title_color=e07746&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesdev&bg_color=2d2d5e&text_color=7777ff&icon_color=c6dffe&title_color=e07746&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesdev&bg_color=2d2d5e&text_color=7777ff&icon_color=c6dffe&title_color=e07746&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
