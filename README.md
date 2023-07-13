@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffc491,50:e07746,100:404086&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffc491,50:c96d40,100:404086&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 <h4 align="center" > I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming. </h4>
 
 <h2 align="center">My stack :man_technologist:</h2>
@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesdev">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesdev&bg_color=2d2d5e&text_color=7777ff&icon_color=c6dffe&title_color=e07746&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesdev&bg_color=2d2d5e&text_color=7777ff&icon_color=c6dffe&title_color=e07746&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesdev&bg_color=0e0402&text_color=7777ff&icon_color=c6dffe&title_color=e07746&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesdev&bg_color=0e0402&text_color=7777ff&icon_color=c6dffe&title_color=e07746&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
@@ -36,6 +36,6 @@
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc491,50:e07746,100:404086&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc491,50:c96d40,100:404086&reversal=true&height=100&section=footer"/>
 </p>
    
