@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffc491,50:c96d40,100:404086&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:dfebfc,50:4357b0,100:222736&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 <h4 align="center" > I'm brazilian Back-end developer, currently my goal is to master Java and object-oriented programming. </h4>
+<img width="100%" src="https://lh3.googleusercontent.com/pw/AIL4fc8jseOsCCD52kFbCA55MD8xpzGmdHQHenC9Q4Ej2Cq85aTOkrPx7yOFLYHSRMOfQCXBWceQjBboY7Jt32TaAaf5hJ-4ka1-DLCbJ1Np2rmtGrLwyIwu4nDgs4xZtXWSB02gF7bsfyDcU_eWloBCh3Q=w1173-h259-s-no?authuser=0"/>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
@@ -23,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesdev">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesdev&bg_color=0e0402&text_color=7777ff&icon_color=c6dffe&title_color=e07746&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesdev&bg_color=0e0402&text_color=7777ff&icon_color=c6dffe&title_color=e07746&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesdev&bg_color=312d47&text_color=607cfc&icon_color=c6dffe&title_color=607cfc&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesdev&bg_color=312d47&text_color=607cfc&icon_color=c6dffe&title_color=607cfc&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
@@ -36,6 +37,6 @@
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc491,50:c96d40,100:404086&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfebfc,50:4357b0,100:222736&reversal=true&height=100&section=footer"/>
 </p>
    
